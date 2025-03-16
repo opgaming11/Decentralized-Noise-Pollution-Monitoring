@@ -17,3 +17,5 @@ Q
 !contracts/source-attribution.clar,d/d/dd6ec0cc4e34ef6c99a3442114476ef1a3a21aa1
 P
  tests/source-attribution.test.ts,5/4/54a8f12a28e8036d8c5d9b832dde681ee8a1fad1
+R
+"contracts/mitigation-tracking.clar,c/b/cb5675bae1fd14f9b669f0aaaaebcbd8273d1b96

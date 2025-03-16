@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.mitigation-tracking]
+path = 'contracts/mitigation-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.sensor-network]
 path = 'contracts/sensor-network.clar'
 clarity_version = 2
