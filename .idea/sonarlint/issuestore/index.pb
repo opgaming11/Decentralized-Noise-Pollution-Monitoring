@@ -13,3 +13,7 @@ L
 tests/sensor-network.test.ts,c/1/c131c49de0e057a544b810de1b211052183e2d5b
 R
 "contracts/threshold-violation.clar,a/3/a37701e9092aa644d234d1c137bfd540bb2d1c2c
+Q
+!contracts/source-attribution.clar,d/d/dd6ec0cc4e34ef6c99a3442114476ef1a3a21aa1
+P
+ tests/source-attribution.test.ts,5/4/54a8f12a28e8036d8c5d9b832dde681ee8a1fad1

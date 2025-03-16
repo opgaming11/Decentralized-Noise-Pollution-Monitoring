@@ -10,6 +10,11 @@ path = 'contracts/sensor-network.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.source-attribution]
+path = 'contracts/source-attribution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.threshold-violation]
 path = 'contracts/threshold-violation.clar'
 clarity_version = 2

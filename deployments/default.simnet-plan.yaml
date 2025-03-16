@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/sensor-network.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: source-attribution
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/source-attribution.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: threshold-violation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/threshold-violation.clar
+            clarity-version: 2
       epoch: "2.5"
